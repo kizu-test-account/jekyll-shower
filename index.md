@@ -16,6 +16,7 @@ style: |
 ---
 
 # You slides' title
+{: .cover }
 
 ![](pictures/cover.jpg)
 
