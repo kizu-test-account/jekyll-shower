@@ -15,8 +15,7 @@ style: |
 
 ---
 
-# Shower Presentation Engine test!
-{: .cover #Cover }
+# You slides' title
 
 ![](pictures/cover.jpg)
 
